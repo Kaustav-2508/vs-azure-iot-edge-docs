@@ -46,8 +46,9 @@ or trademarks, whether by implication, estoppel or otherwise.
 ## Support
 The team monitors the issue section on regular basis and will try to assist with troubleshooting or questions related IoT Edge tools on a best effort basis.
 	
-A few tips before opening an issue. Try to generalize the problem as much as possible. Examples include
-- Removing 3rd party components
-- Reproduce the issue with provided deployment manifest used
+ Here are a few tips before opening an issue. Try to generalize the problem as much as possible. Examples include the following :
+- Removing third party components
+- Reproduce the issue with provided deployment manifest 
 - Specify whether issue is reproducible on physical device or simulated device or both
-Also, Consider consulting on the [docker docs channel](https://github.com/docker/docker.github.io) for general docker questions.
+Also, Consider consulting on the [docker docs channel](https://github.com/docker/docker.github.io) for general Docker questions.
+
